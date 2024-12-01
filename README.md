@@ -52,6 +52,29 @@ Comment findings
 
 Comment findings
 
+| Job Title                         | Company Name                 | Country       | Average Salary (Year) | Skills      | Type             |
+|-----------------------------------|------------------------------|---------------|-----------------------|-------------|------------------|
+| Director of Analytics             | Meta                         | United States | 336500                | None        | None             |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | sql         | programming      |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | python      | programming      |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | r           | programming      |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | azure       | cloud            |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | databricks  | cloud            |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | aws         | cloud            |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | pandas      | libraries        |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | pyspark     | libraries        |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | jupyter     | libraries        |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | excel       | analyst_tools    |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | tableau     | analyst_tools    |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | power bi    | analyst_tools    |
+| Associate Director- Data Insights | AT&T                         | United States | 255830                | powerpoint  | analyst_tools    |
+| Data Analyst, Marketing           | Pinterest Job Advertisements | United States | 232423                | sql         | programming      |
+| Data Analyst, Marketing           | Pinterest Job Advertisements | United States | 232423                | python      | programming      |
+| Data Analyst, Marketing           | Pinterest Job Advertisements | United States | 232423                | r           | programming      |
+| Data Analyst, Marketing           | Pinterest Job Advertisements | United States | 232423                | hadoop      | libraries        |
+| Data Analyst, Marketing           | Pinterest Job Advertisements | United States | 232423                | tableau     | analyst_tools    |
+
+
 [Sample SQL Query](/sql_scripts/2_skills_required.sql)
 
 ### 3. Finding the best companies
