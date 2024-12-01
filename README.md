@@ -32,6 +32,19 @@ I have considered all these questions in terms of:
 
 Comment findings
 
+| Job Title                                | Short Title         | Company Name                  | Country       | Average Salary (Year) |
+|------------------------------------------|---------------------|-------------------------------|---------------|------------------------|
+| Staff Data Scientist/Quant Researcher    | Data Scientist      | Selby Jennings               | United States | 550000                |
+| Staff Data Scientist - Business Analytics| Data Scientist      | Selby Jennings               | United States | 525000                |
+| Senior Data Scientist                    | Senior Data Scientist| Glocomms                      | United States | 475000                |
+| Data Scientist                           | Data Scientist      | Algo Capital Group           | United States | 375000                |
+| Senior Data Scientist                    | Senior Data Scientist| Algo Capital Group           | United States | 375000                |
+| Head of Data Science                     | Data Scientist      | Demandbase                   | United States | 351500                |
+| Head of Data Science                     | Data Scientist      | Demandbase                   | United States | 324000                |
+| Director of Data Science & Analytics     | Data Scientist      | Reddit                       | United States | 313000                |
+| Sr. Director - Data Science              | Senior Data Scientist| Indeed                       | United States | 310000                |
+| Senior Data Scientist                    | Senior Data Scientist| Top Artificial Intelligence Company | United States | 300000                |
+
 [Sample SQL Query](/sql_scripts/1_highest_paying_jobs.sql)
 
 ### 2. Skills required for these jobs
