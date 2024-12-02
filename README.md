@@ -87,6 +87,18 @@ Comment findings
 
 Comment findings
 
+| Skills      | Number of Jobs | Percentage (%) |
+|-------------|----------------|----------------|
+| Python      | 140012         | 14.2           |
+| SQL         | 97835          | 9.9            |
+| R           | 72526          | 7.4            |
+| SAS         | 35934          | 3.6            |
+| Tableau     | 35472          | 3.6            |
+| AWS         | 33779          | 3.4            |
+| Spark       | 30991          | 3.1            |
+| Azure       | 27227          | 2.8            |
+| TensorFlow  | 24261          | 2.5            |
+| Excel       | 20886          | 2.1            |
 
 
 [Sample SQL Query](/sql_scripts/4_in_demand_skills.sql)
