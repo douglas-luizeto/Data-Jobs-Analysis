@@ -67,11 +67,27 @@ Comment findings
 
 Comment findings
 
+| Company Name         | Job Postings | Average Salary | Minimum Salary | Maximum Salary |
+|----------------------|--------------|----------------|----------------|----------------|
+| Reddit               | 6            | 250313         | 229000         | 313000         |
+| SoFi                 | 5            | 207044         | 198875         | 213173         |
+| Atlassian            | 6            | 209937         | 189000         | 219500         |
+| Gopuff               | 6            | 198207         | 167238         | 219000         |
+| Meta                 | 6            | 192750         | 164000         | 198500         |
+| Storm3               | 11           | 190682         | 160000         | 210000         |
+| Lawrence Harvey      | 6            | 186667         | 160000         | 237500         |
+| Averity              | 7            | 203571         | 157500         | 250000         |
+| Home Depot / THD     | 5            | 212000         | 150000         | 280000         |
+| Intelletec           | 9            | 169167         | 150000         | 200000         |
+
+
 [Sample SQL Query](/sql_scripts/3_best_companies.sql)
 
 ### 4. In-demand skills
 
 Comment findings
+
+
 
 [Sample SQL Query](/sql_scripts/4_in_demand_skills.sql)
 
