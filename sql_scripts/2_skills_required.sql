@@ -2,6 +2,7 @@
 Question: What skills do the highest paying jobs require?
 - Identify all the skills related to the highest paying jobs
 - Focuses on job postings with specified salaries
+- Focuses on job postings that allow remote work
 - Focuses on job postings from the US
 Goal: Highlight the skillsets required for high-paying Data Scientist roles
 */
