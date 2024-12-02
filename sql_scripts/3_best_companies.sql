@@ -2,9 +2,9 @@
 Question: What are the best companies in terms of salary and number of positions available?
 - Identify the number of jobs, average, minimum, and maximum salary for each one
 - Order by: avg salary, min salary, max salary and number of jobs, according to the job-seeker's priorities
-- Focuses on job postings with specified salaries
-- Focuses on job postings that allow remote work
-- Focuses on job postings from the US
+- Focus on job postings with specified salaries
+- Focus on job postings that allow remote work
+- Focus on job postings from the US
 Goal: Highlight the skillsets required for high-paying Data Scientist roles
 */
 
