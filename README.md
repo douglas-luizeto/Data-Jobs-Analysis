@@ -9,7 +9,6 @@ In this project I look at records from data-related job postings in 2023, gather
 3. What are the best companies in terms of job postings and average salary? 
 4. In general, what are the most in demand skills?
 5. In general, what skills recieve better compensation? 
-6. What could be an optimal skillset for a job-seeker?
 
 I have considered all these questions in terms of: 
 - Job role
@@ -122,12 +121,6 @@ Comment findings
 | Kafka         | 147417         | 55000          | 375000         | 120            |
 
 [Sample SQL Query](/sql_scripts/5_highest_paid_skills.sql)
-
-### 6. The optimal skillset
-
-Comment findings
-
-[Sample SQL Query](/sql_scripts/6_optimal_skillset.sql)
 
 # What I learned
 
