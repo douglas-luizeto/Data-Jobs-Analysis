@@ -89,16 +89,17 @@ Comment findings
 
 | Skills      | Number of Jobs | Percentage (%) |
 |-------------|----------------|----------------|
-| Python      | 140012         | 14.2           |
-| SQL         | 97835          | 9.9            |
-| R           | 72526          | 7.4            |
-| SAS         | 35934          | 3.6            |
-| Tableau     | 35472          | 3.6            |
-| AWS         | 33779          | 3.4            |
-| Spark       | 30991          | 3.1            |
-| Azure       | 27227          | 2.8            |
-| TensorFlow  | 24261          | 2.5            |
-| Excel       | 20886          | 2.1            |
+| Python      | 52322          | 13.5           |
+| SQL         | 37586          | 9.7            |
+| R           | 31861          | 8.2            |
+| SAS         | 17734          | 4.6            |
+| Tableau     | 16730          | 4.3            |
+| AWS         | 13028          | 3.4            |
+| Spark       | 12558          | 3.2            |
+| TensorFlow  | 8956           | 2.3            |
+| Java        | 8651           | 2.2            |
+| Azure       | 8605           | 2.2            |
+
 
 
 [Sample SQL Query](/sql_scripts/4_in_demand_skills.sql)
@@ -106,6 +107,19 @@ Comment findings
 ### 5. Highest paid skills 
 
 Comment findings
+
+| Skills        | Average Salary | Minimum Salary | Maximum Salary | Number of Jobs |
+|---------------|----------------|----------------|----------------|----------------|
+| Airflow       | 170100         | 79000          | 350000         | 154            |
+| Go            | 160165         | 37860          | 463500         | 341            |
+| BigQuery      | 157302         | 79000          | 280000         | 132            |
+| Looker        | 156377         | 61200          | 350000         | 190            |
+| Spark         | 153759         | 30000          | 450000         | 971            |
+| PyTorch       | 152653         | 51150          | 375000         | 582            |
+| TensorFlow    | 150639         | 41500          | 375000         | 647            |
+| Scala         | 149419         | 50000          | 375000         | 420            |
+| Scikit-learn  | 148188         | 30000          | 375000         | 357            |
+| Kafka         | 147417         | 55000          | 375000         | 120            |
 
 [Sample SQL Query](/sql_scripts/5_highest_paid_skills.sql)
 
